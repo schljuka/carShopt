@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "marka": "Alfa Romeo",
+    "model": "Giulietta",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/alfaRomeoGiulietta.jpg",
+      "alt": "alfaRomeo"
+    },
+    "kolicina": 1,
+    "cena": 12000,
+    "specifikacije": {
+      "godinaProizvodnje": 1986,
+      "kubikaza": 1600,
+      "kilometraza": 132897,
+      "gorivo": "benzin",
+      "transmisija": "automatik",
+      "snagaMotora": 89,
+      "boja": "crvena"
+    },
+    "popust": 0
+  },
+  {
+    "id": 2,
+    "marka": "Chevrolet",
+    "model": "Camaro",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/chevroletCamaro.jpg",
+      "alt": "camaro"
+    },
+    "kolicina": 1,
+    "cena": 22500,
+    "specifikacije": {
+      "godinaProizvodnje": 1976,
+      "kubikaza": 3600,
+      "kilometraza": 144000,
+      "gorivo": "benzin",
+      "transmisija": "manuelni",
+      "snagaMotora": 139,
+      "boja": "crna"
+    },
+    "popust": 0
+  },
+  {
+    "id": 3,
+    "marka": "Chevrolet",
+    "model": "Corvette",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/chevroletCorvette.jpg",
+      "alt": "corvette"
+    },
+    "kolicina": 1,
+    "cena": 17000,
+    "specifikacije": {
+      "godinaProizvodnje": 1980,
+      "kubikaza": 3200,
+      "kilometraza": 190897,
+      "gorivo": "benzin",
+      "transmisija": "automatik",
+      "snagaMotora": 129,
+      "boja": "crvena"
+    },
+    "popust": 10
+  },
+  {
+    "id": 4,
+    "marka": "Dodge",
+    "model": "Charger",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/dodgeCharger.jpg",
+      "alt": "charger"
+    },
+    "kolicina": 1,
+    "cena": 32000,
+    "specifikacije": {
+      "godinaProizvodnje": 1982,
+      "kubikaza": 4600,
+      "kilometraza": 102897,
+      "gorivo": "benzin",
+      "transmisija": "manuelni",
+      "snsnagaMotora": 149,
+      "boja": "crna"
+    },
+    "popust": 0
+  },
+  {
+    "id": 5,
+    "marka": "Ford",
+    "model": "F-100",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/fordF100.jpg",
+      "alt": "f100"
+    },
+    "kolicina": 1,
+    "cena": 17000,
+    "specifikacije": {
+      "godinaProizvodnje": 1989,
+      "kubikaza": 2600,
+      "kilometraza": 232007,
+      "gorivo": "dizel",
+      "transmisija": "manuelni",
+      "snagaMotora": 119,
+      "boja": "zlatna"
+    },
+    "popust": 7
+  },
+  {
+    "id": 6,
+    "marka": "Ford",
+    "model": "Mustang",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/fordMustang.jpg",
+      "alt": "mustang"
+    },
+    "kolicina": 1,
+    "cena": 40500,
+    "specifikacije": {
+      "godinaProizvodnje": 1976,
+      "kubikaza": 4200,
+      "kilometraza": 102400,
+      "gorivo": "benzin",
+      "transmisija": "automatik",
+      "snagaMotora": 169,
+      "boja": "crna"
+    },
+    "popust": 0
+  },
+  {
+    "id": 7,
+    "marka": "Mercedes-Benz",
+    "model": "280",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/mercedesBenz280.jpg",
+      "alt": "280"
+    },
+    "kolicina": 1,
+    "cena": 38000,
+    "specifikacije": {
+      "godinaProizvodnje": 1979,
+      "kubikaza": 2600,
+      "kilometraza": 202897,
+      "gorivo": "dizel",
+      "transmisija": "automatik",
+      "snagaMotora": 109,
+      "boja": "bijela"
+    },
+    "popust": 5
+  },
+  {
+    "id": 8,
+    "marka": "Jaguar",
+    "model": "E-Type",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/jaguarEtype.jpg",
+      "alt": "jaguarEtype"
+    },
+    "kolicina": 1,
+    "cena": 24700,
+    "specifikacije": {
+      "godinaProizvodnje": 1989,
+      "kubikaza": 2200,
+      "kilometraza": 222897,
+      "gorivo": "benzin",
+      "transmisija": "manuelni",
+      "snagaMotora": 79,
+      "boja": "siva"
+    },
+    "popust": 4
+  },
+  {
+    "id": 9,
+    "marka": "Porsche",
+    "model": "924",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/porsche924.jpg",
+      "alt": "porsche924"
+    },
+    "kolicina": 1,
+    "cena": 36000,
+    "specifikacije": {
+      "godinaProizvodnje": 1977,
+      "kubikaza": 2800,
+      "kilometraza": 122897,
+      "gorivo": "dizel",
+      "transmisija": "automatik",
+      "snagaMotora": 129,
+      "boja": "siva"
+    },
+    "popust": 0
+  },
+  {
+    "id": 10,
+    "marka": "Chevrolet",
+    "model": "Corvette Cabrio",
+    "tipProizvoda": "automobil",
+    "slika": {
+      "putanja": "assets/images/chevroletCorvetteCabrio.jpg",
+      "alt": "chevroletCorvetteCabrio"
+    },
+    "kolicina": 1,
+    "cena": 44000,
+    "specifikacije": {
+      "godinaProizvodnje": 1972,
+      "kubikaza": 3000,
+      "kilometraza": 120800,
+      "gorivo": "benzin",
+      "transmisija": "automatik",
+      "snagaMotora": 189,
+      "boja": "crna"
+    },
+    "popust": 0
+  }
+]
